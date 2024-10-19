@@ -21,6 +21,9 @@ $ - Dollar
 👀
 😎
 👌🏻
+[CLI Commands](docs/cli.md)
+
+
 
 
 	
