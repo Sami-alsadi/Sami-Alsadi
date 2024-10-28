@@ -9,7 +9,7 @@
         "name": "Roger Federer", 
         "sports": "Tennis",
         "team": null, // null 
-        "city": null // null 
+        "city": null // null
     },
     {
         "name": "Lionel Messi",
