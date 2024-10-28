@@ -12,7 +12,7 @@
         "city": null // null 
     },
     {
-        "name": "Lionel Messi", 
+        "name": "Lionel Messi",
         "sports": "Football", 
         "team": "Inter Miami", 
         "city": "Miami" 
